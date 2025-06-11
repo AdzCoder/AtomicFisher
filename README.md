@@ -66,9 +66,9 @@ AtomicFisher/
 └── Images/                # Game assets
     ├── Backgrounds/       # Background images
     ├── Elements/          # Chemical element icons
-    ├── Fish/             # Fish sprites and animations
-    ├── Player/           # Boat, hook, and rope graphics
-    └── play.gif          # UI elements
+    ├── Fish/              # Fish sprites and animations
+    ├── Player/            # Boat, hook, and rope graphics
+    └── play.gif           # UI elements
 ```
 
 ## Educational Value
