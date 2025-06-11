@@ -1,0 +1,25 @@
+# MATLAB Files
+*.m~
+*.mat
+*.asv
+*.autosave
+slprj/
+*.slxc
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Log files
+*.log
+
+# Compiled files
+*.exe
+*.dll
+*.so
