@@ -1,5 +1,7 @@
 # AtomicFisher
 
+![MATLAB Version](https://img.shields.io/badge/MATLAB-R2024b+-blue?style=flat-square) ![Educational](https://img.shields.io/badge/Educational-KS3%20Science-green?style=flat-square) ![License](https://img.shields.io/badge/License-Educational%20Use-orange?style=flat-square) ![Version](https://img.shields.io/badge/Version-2.0-red?style=flat-square)
+
 A fun educational fishing game designed for KS3 science students to learn about chemical elements and the periodic table.
 
 ## About
@@ -85,6 +87,8 @@ This game is designed for KS3 (Key Stage 3) science curriculum and helps student
 ## Author
 
 **Adil Wahab Bhatti**
+- University of Warwick, School of Engineering  
+- [ES2D7: Systems and Software Engineering Principles (23/24)](https://courses.warwick.ac.uk/modules/2023/ES2D7-15)
 
 ## License
 
