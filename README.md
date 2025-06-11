@@ -90,10 +90,6 @@ This game is designed for KS3 (Key Stage 3) science curriculum and helps student
 - University of Warwick, School of Engineering  
 - [ES2D7: Systems and Software Engineering Principles (23/24)](https://courses.warwick.ac.uk/modules/2023/ES2D7-15)
 
-## License
-
-Educational use permitted. Please credit the author when using or modifying this game.
-
 ## Troubleshooting
 
 - **Game won't start**: Ensure you're using MATLAB 2024b or compatible version
@@ -103,3 +99,11 @@ Educational use permitted. Please credit the author when using or modifying this
 ## Contributing
 
 This is an educational project. If you'd like to suggest improvements or report bugs, please open an issue on GitHub.
+
+## Licence
+
+MIT Licence — see the [LICENCE](LICENSE) file for details.
+
+---
+
+*For questions or issues related to this educational project, please refer to the original coursework documentation or contact the development team through appropriate academic channels.*
