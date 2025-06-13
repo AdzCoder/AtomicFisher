@@ -6,7 +6,7 @@ A fun educational fishing game 🎮 designed for KS3 science students to learn a
 
 ## 🎥 Demo & Presentation
 
-[![AtomicFisher Game Demo](https://img.youtube.com/vi/VTREubCIVF4/0.jpg)](https://www.youtube.com/watch?v=VTREubCIVF4)
+[![AtomicFisher Game Demo](https://img.youtube.com/vi/VTREubCIVF4/maxresdefault.jpg)](https://www.youtube.com/watch?v=VTREubCIVF4)
 
 🎬 **Watch the full game presentation and demo** on YouTube! This video showcases the gameplay, educational features, and development journey of AtomicFisher.
 
