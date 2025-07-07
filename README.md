@@ -1,7 +1,7 @@
 # 🎣 AtomicFisher
 [![MATLAB Version](https://img.shields.io/badge/MATLAB-R2024b+-blue?style=flat-square)](https://www.mathworks.com/products/matlab.html)
 [![Educational](https://img.shields.io/badge/Educational-KS3%20Science-green?style=flat-square)](https://www.gov.uk/national-curriculum/key-stage-3-and-4)
-[![License](https://img.shields.io/badge/License-Educational%20Use-orange?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-orange?style=flat-square)](LICENSE)
 ![Version](https://img.shields.io/badge/Version-2.0-red?style=flat-square)
 
 
