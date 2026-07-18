@@ -111,7 +111,7 @@ This is an educational project. If you'd like to suggest improvements or report 
 
 ## 📜 Licence
 
-MIT Licence — see the [LICENCE](LICENSE) file for details.
+MIT Licence: see the [LICENCE](LICENSE) file for details.
 
 ---
 
